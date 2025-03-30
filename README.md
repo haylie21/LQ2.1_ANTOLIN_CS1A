@@ -1,1 +1,0 @@
-# LQ2.1_ANTOLIN_CS1A
